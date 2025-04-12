@@ -1,2 +1,0 @@
-# testedeaprendizado
-image-text-recognition
